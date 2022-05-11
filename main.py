@@ -4,7 +4,7 @@ import telebot
 from operator import itemgetter
 from time import sleep
 
-token = '5399093720:AAExJW0tTbNH2P6ZkzrWHZzhuwVl53SATtQ'
+token = 'TOKEN'
 bot = telebot.TeleBot(token, parse_mode='html')
 
 #отслеживаем команду /help
